@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Sergey Turlo"
+
+  navbar:
+    background: white
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+
+    right:
+      - text: CV
+        href: files/cv-sergey-turlo.pdf
+      - text: Email
+        href: mailto:turlo@marketing.uni-frankfurt.de
+
+  page-footer:
+    left: "© Sergey Turlo"
+    right: "Goethe University Frankfurt"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full

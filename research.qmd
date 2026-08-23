@@ -1,0 +1,130 @@
+# Research
+
+
+## Working Papers
+
+::: {.paper}
+
+### Demand Estimation with Costly Attribute Information Integration
+
+<div class="paper-meta">
+with Matteo Fina, Arash Laghaie, Johannes Kasinger, and Thomas Otter<br>
+<strong>Job Market Paper</strong>
+</div>
+
+[Paper →](files/turlo-demand-estimation.pdf){.paper-link}
+
+:::
+
+
+::: {.paper}
+
+### Recommend or Simplify? Digital Information Design with Cross-Category Spillovers
+
+<div class="paper-meta">
+with Dominik Naeher<br>
+Working paper
+</div>
+
+:::
+
+
+::: {.paper}
+
+### Predicting New Restaurant Survival through Incumbents' Consumer Reviews
+
+<div class="paper-meta">
+with Keyvan Dehmamy<br>
+Working paper
+</div>
+
+:::
+
+
+## Publications
+
+::: {.paper}
+
+### Discrete Choice in Marketing through the Lens of Rational Inattention
+
+<div class="paper-meta">
+with Matteo Fina, Johannes Kasinger, Arash Laghaie, and Thomas Otter<br>
+<em>Quantitative Marketing and Economics</em>, 23(1), 45–104, 2025
+</div>
+
+<a class="paper-link" href="https://doi.org/10.1007/s11129-025-09292-9">Published article →</a>
+
+:::
+
+
+## Work in Progress
+
+::: {.paper}
+
+### When Simpler is Worse: Adverse Effects of Information Simplification in Discrete Choice
+
+<div class="paper-meta">
+with Matteo Fina, Arash Laghaie, Johannes Kasinger, and Thomas Otter
+</div>
+
+:::
+
+
+::: {.paper}
+
+### Getting Consumers to Learn More About the Product: The Effect of Informative Return Labels on Information Processing and Return Rates
+
+<div class="paper-meta">
+with Katharina Kessing
+</div>
+
+:::
+
+
+::: {.paper}
+
+### Meta-Scientific Research in Marketing: Understanding the Impact of Researcher Choices
+
+<div class="paper-meta">
+with Koen Pauwels, Karin Teichmann, Oliver Koll, Hannes Datta, Harald van Heerde, and 150+ co-authors
+</div>
+
+:::
+
+
+## Other Papers
+
+::: {.paper}
+
+### Regulating Cancellation Rights with Consumer Experimentation
+
+<div class="paper-meta">
+with Florian Hoffmann and Roman Inderst<br>
+2019
+</div>
+
+<a class="paper-link" href="https://ssrn.com/abstract=3360918">SSRN →</a>
+
+:::
+
+
+::: {.paper}
+
+### Persuasion through Ordered Information
+
+<div class="paper-meta">
+2019
+</div>
+
+:::
+
+
+::: {.paper}
+
+### Mergers, Welfare, and Bargaining Power
+
+<div class="paper-meta">
+2018
+</div>
+
+:::

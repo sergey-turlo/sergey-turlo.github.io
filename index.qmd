@@ -1,0 +1,71 @@
+
+::: {.hero}
+
+# Sergey Turlo
+
+<div class="position">
+Postdoctoral Researcher in Quantitative Marketing
+</div>
+
+<div class="institution">
+Goethe University Frankfurt
+</div>
+
+I study how consumers acquire and process information and how firms design information environments. My research focuses on information frictions and their implications for consumer choice, firm strategy, and market outcomes.
+
+Methodologically, I combine rational inattention and discrete-choice models with Bayesian methods, experiments, and economic theory.
+
+
+
+ 
+
+:::
+
+
+## Job Market Paper
+
+::: {.paper}
+
+### Demand Estimation with Costly Attribute Information Integration
+
+<div class="paper-meta">
+with Matteo Fina, Arash Laghaie, Johannes Kasinger, and Thomas Otter
+</div>
+
+We develop a discrete-choice framework in which consumers optimally decide how much product information to process before choosing. Using a controlled choice experiment, we show how accounting for endogenous information processing changes demand estimation and helps explain choice patterns that are difficult to reconcile with standard random-utility models.
+
+[Paper →](files/turlo-demand-estimation.pdf){.paper-link}
+
+:::
+
+
+## Selected Research
+
+::: {.paper}
+
+### Discrete Choice in Marketing through the Lens of Rational Inattention
+
+<div class="paper-meta">
+with Matteo Fina, Johannes Kasinger, Arash Laghaie, and Thomas Otter<br>
+<em>Quantitative Marketing and Economics</em>, 23(1), 45–104, 2025
+</div>
+
+We develop an empirical rational-inattention framework for discrete-choice data in which consumers optimally allocate attention across alternatives and product attributes. The framework provides a tractable way to incorporate costly information processing into demand models and rationalizes behavioral patterns that standard random-utility models have difficulty capturing.
+
+<a class="paper-link" href="https://doi.org/10.1007/s11129-025-09292-9">Published article →</a>
+
+:::
+
+
+::: {.paper}
+
+### Recommend or Simplify? Digital Information Design with Cross-Category Spillovers
+
+<div class="paper-meta">
+with Dominik Naeher<br>
+Working paper
+</div>
+
+We study how a multi-category seller should design information tools when consumers face limits in processing product information. Because information provision in one category changes attention and pricing incentives in others, category-specific interventions can generate cross-category spillovers and lead simplification and recommendation tools to have markedly different effects on firm profits and consumer welfare.
+
+:::
