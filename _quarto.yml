@@ -1,10 +1,15 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - index.qmd
+    - research.qmd
 
 website:
   title: "Sergey Turlo"
-
+  
+  search: false 
+  
   navbar:
     background: white
     left:

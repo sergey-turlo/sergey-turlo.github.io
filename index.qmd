@@ -11,12 +11,13 @@ Postdoctoral Researcher in Quantitative Marketing
 Goethe University Frankfurt
 </div>
 
-I study how consumers acquire and process information and how firms design information environments. My research focuses on information frictions and their implications for consumer choice, firm strategy, and market outcomes.
+I study how consumers acquire and process product information when attention and information processing are costly. I develop choice models that account for these frictions and study how information design shapes consumer choice, demand, pricing, and welfare.
 
-Methodologically, I combine rational inattention and discrete-choice models with Bayesian methods, experiments, and economic theory.
+Methodologically, I combine economic models of information processing—especially rational inattention—with Bayesian choice modeling and experiments, complemented by analytical models when useful.
 
-
-
+<div class="research-interests">
+<strong>Research interests:</strong> Consumer information processing · Information frictions · Demand estimation · Information design · Digital choice environments
+</div>
  
 
 :::
@@ -32,9 +33,15 @@ Methodologically, I combine rational inattention and discrete-choice models with
 with Matteo Fina, Arash Laghaie, Johannes Kasinger, and Thomas Otter
 </div>
 
-We develop a discrete-choice framework in which consumers optimally decide how much product information to process before choosing. Using a controlled choice experiment, we show how accounting for endogenous information processing changes demand estimation and helps explain choice patterns that are difficult to reconcile with standard random-utility models.
+Demand estimation for multi-attribute products requires assumptions about how consumers process product information. 
+We study the implications of these assumptions in an incentivized discrete choice experiment in which consumers choose among wine alternatives and final prices require integrating posted prices with discounts that are costly to process and integrate. 
+The data provide evidence of partial and adaptive information processing at both the attribute and alternative levels. 
+Consumers often attend to discount information without fully integrating it into final prices, choices respond more strongly to posted prices than to equivalent discounts, and discount responsiveness increases when incentives are stronger. 
+We estimate a flexible rational inattention discrete choice model (RI-DCM) that allows for partial and adaptive information processing, and use two benchmarks to assess its empirical value: a widely used hierarchical Bayesian multinomial logit model and a tractable RI-logit model that obtains closed-form choice probabilities under convenient belief assumptions.
+We show that failing to account for partial and adaptive information processing has empirically relevant consequences: the standard logit benchmark can produce negative discount preferences for a substantial share of consumers and implausible counterfactual demand curves, while the tractable RI-logit benchmark fails to accurately predict elicited endogenous consideration behavior.
+In contrast, the RI-DCM provides a substantially better fit to the data, yields economically plausible counterfactual demand responses, and predicts independently elicited consideration behavior more accurately. 
+Overall, the results show that assumptions about costly information processing can change both inference from choice data and economically relevant counterfactual predictions.
 
-[Paper →](files/turlo-demand-estimation.pdf){.paper-link}
 
 :::
 
@@ -50,8 +57,12 @@ with Matteo Fina, Johannes Kasinger, Arash Laghaie, and Thomas Otter<br>
 <em>Quantitative Marketing and Economics</em>, 23(1), 45–104, 2025
 </div>
 
-We develop an empirical rational-inattention framework for discrete-choice data in which consumers optimally allocate attention across alternatives and product attributes. The framework provides a tractable way to incorporate costly information processing into demand models and rationalizes behavioral patterns that standard random-utility models have difficulty capturing.
-
+Models derived from random utility theory represent the workhorse methods to learn about consumer preferences from discrete choice data. 
+However, a large body of literature documents various behavioral patterns that cannot be captured by basic random utility models and require different non-unified adjustments to accommodate these patterns.  
+In this article, we discuss strategies how to apply rational inattention theory---which explains a large variety of such departures---to the analysis of discrete choice among multiple alternatives described along multiple attributes.
+We first review existing applications that make restrictive belief assumptions to obtain choice probabilities in closed multinomial logit form. 
+We then propose a model that allows for general consumer beliefs and demonstrate its empirical identification.
+Further, we illustrate how this model naturally motivates stylized empirical results that are hard to reconcile from a random utility perspective.
 <a class="paper-link" href="https://doi.org/10.1007/s11129-025-09292-9">Published article →</a>
 
 :::
@@ -66,6 +77,8 @@ with Dominik Naeher<br>
 Working paper
 </div>
 
-We study how a multi-category seller should design information tools when consumers face limits in processing product information. Because information provision in one category changes attention and pricing incentives in others, category-specific interventions can generate cross-category spillovers and lead simplification and recommendation tools to have markedly different effects on firm profits and consumer welfare.
+Digital markets are increasingly shaped by AI-based technologies that curate and prioritize information. Firms use these tools to facilitate product search and steer consumer attention, yet their effects remain poorly understood when consumers choose across multiple product categories. We develop a theoretical framework of a multi-category seller facing buyers with heterogeneous information-processing capacities, contrasting two instruments: simplification, which reduces learning costs, and recommendation, which increases the share of fully informed buyers. Category-specific information provision generates cross-category attention and pricing spillovers and can induce non-monotonic attention responses. The two instruments have sharply different effects on prices and market coverage. Simplification typically raises willingness to pay and prices within a pricing regime, reducing buyer surplus while increasing total welfare; at discrete thresholds, however, it can expand market coverage, lower prices, and raise buyer surplus. Recommendation instead leaves prices unchanged within regimes and typically benefits buyers, but can contract market coverage at discrete thresholds, causing prices to jump and both buyer surplus and total welfare to fall. Thus, how information is provided matters not only for average outcomes, but also for how markets adjust when firms change whom they serve.
+Our results offer new insights for the design and regulation of information systems and highlight potential risks of AI-driven information provision in multi-category markets.
 
 :::
+
