@@ -233,7 +233,7 @@ In this article, we discuss strategies how to apply rational inattention theoryâ
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/sergey-turlo\.github\.io\/");
+        var filterRegex = new RegExp("https:\/\/www\.sergeyturlo\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

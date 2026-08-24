@@ -1,1 +1,1 @@
-Sitemap: https://sergey-turlo.github.io/sitemap.xml
+Sitemap: https://www.sergeyturlo.com/sitemap.xml
