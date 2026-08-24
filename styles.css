@@ -218,3 +218,18 @@ h2 {
   }
 
 }
+
+
+/* ---------- Research interests ---------- */
+
+.research-interests {
+  margin-top: 1.7rem;
+  color: var(--muted);
+  font-size: 0.94rem;
+  line-height: 1.8;
+}
+
+.research-interests strong {
+  color: var(--text);
+  font-weight: 500;
+}
